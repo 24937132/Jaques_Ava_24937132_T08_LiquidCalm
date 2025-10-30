@@ -1,11 +1,11 @@
 # Jaques_Ava_24937132_T08_LiquidCalm
 
-LIQUID CALM:
-Why?
+**LIQUID CALM:**
+**Why?**
 My challenge was to design a virtual aquarium: a soothing, generative animation where fish drift and bubbles rise in real time. This is important because screens are often associated with noise, distraction, or stress, but here, I want to flip that and show how code can create a moment of calm.
 
 
-HOW TO RUN THE PROGRAM:
+**HOW TO RUN THE PROGRAM:**
 
 Go to the 'Liquid_Calm_Final_ folder in the files section
 
@@ -16,7 +16,7 @@ Once opened in Processing you will be able to see my code and you can press the 
 When the code is opened, press the space bar as it is an interactive feature and you will see that fish will be added to the screen everytime you press it.
 
 
-Links used:
+**LINKS USED:**
 simple colour reference: https://py.processing.org/reference/color.html
 Lerpcolour reference: https://processing.org/reference/lerpColor_.html
 Eclipse/ Circle reference: https://py.processing.org/reference/ellipse.html
@@ -31,3 +31,11 @@ Swaying effect reference: https://py.processing.org/reference/sin.html
 Stacked drawing: https://py.processing.org/reference/for.html
 "key pressed" function reference: https://processing.org/reference/keyPressed_.html?utm_
 "key pressed" function reference: https://py.processing.org/reference/keypressed?utm_
+
+**ACEDEMIC REFERENCES:**
+Bunn, T. (2021). Learn Python visually: Creative coding with Processing.py. No Starch Press.
+Moon, J. A. (2006). Learning journals: A handbook for reflective practice and professional development. Routledge.
+Reas, C., & Fry, B. (2015). Getting started with Processing (2nd ed.). Maker Media.
+Zhang, Y., & Funk, M. (2021). Coding art: The four steps to creative programming with the Processing language. Apress.
+Hatton, N., & Smith, D. (1995). Reflection in teacher education. In Moon (2006), Learning journals (pp. 33–49). Routledge.
+
