@@ -43,7 +43,7 @@ Reas, C., & Fry, B. (2015). Getting started with Processing (2nd ed.). Maker Med
 Zhang, Y., & Funk, M. (2021). Coding art: The four steps to creative programming with the Processing language. Apress.
 Hatton, N., & Smith, D. (1995). Reflection in teacher education. In Moon (2006), Learning journals (pp. 33–49). Routledge.
 
-****APA7th Referencing of links used ****
+**APA7th Referencing of links used**
 color() \ Language (API). (2024). Processing.org. https://py.processing.org/reference/color.html
 lerpColor() / Reference. (2025b). Processing. https://processing.org/reference/lerpColor_.html
 ellipse() \ Language (API). (2024). Processing.org. https://py.processing.org/reference/ellipse.html
