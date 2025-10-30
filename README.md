@@ -11,7 +11,9 @@ Go to the 'Liquid_Calm_Final_ folder in the files section
 
 Open the Folder and Click on the 'Liquid_Calm_Final_pyde'
 
-Once opened in Processing you will be able to see my code and you can press the 'play' button
+After this you will see the whole code. This will then need to be copy and pasted into the Processing App. Once there change from Java Script to Python (as the code is in Python).
+
+After this you will be able to press the 'play' button and the code should run smoothly.
 
 When the code is opened, press the space bar as it is an interactive feature and you will see that fish will be added to the screen everytime you press it.
 
