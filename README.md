@@ -43,3 +43,19 @@ Reas, C., & Fry, B. (2015). Getting started with Processing (2nd ed.). Maker Med
 Zhang, Y., & Funk, M. (2021). Coding art: The four steps to creative programming with the Processing language. Apress.
 Hatton, N., & Smith, D. (1995). Reflection in teacher education. In Moon (2006), Learning journals (pp. 33–49). Routledge.
 
+****APA7th Referencing of links used ****
+color() \ Language (API). (2024). Processing.org. https://py.processing.org/reference/color.html
+lerpColor() / Reference. (2025b). Processing. https://processing.org/reference/lerpColor_.html
+ellipse() \ Language (API). (2024). Processing.org. https://py.processing.org/reference/ellipse.html
+Reference. (n.d.). Processing. https://processing.org/reference/draw_.html
+Bouncy Bubbles / Examples. (2025). Processing. https://processing.org/examples/bouncybubbles.html
+triangle() \ Language (API). (2024). Processing.org. https://py.processing.org/reference/triangle.html
+% (modulo) \ Language (API). (2024). Processing.org. https://py.processing.org/reference/modulo.html
+Python, R. (n.d.). Python Modulo in Practice: How to Use the % Operator – Real Python. Realpython.com. https://realpython.com/python-modulo-operator/
+sin() \ Language (API). (2024b). Processing.org. https://py.processing.org/reference/sin.html
+for \ Language (API). (2024). Processing.org. https://py.processing.org/reference/for.html
+keyPressed() / Reference. (2025b). Processing. https://processing.org/reference/keyPressed_.html
+keyPressed() \ Language (API). (2024). Processing.org. https://py.processing.org/reference/keypressed?
+
+
+
