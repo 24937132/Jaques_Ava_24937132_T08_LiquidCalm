@@ -1,6 +1,8 @@
 # Jaques_Ava_24937132_T08_LiquidCalm
 
 **LIQUID CALM:**
+Liquid Calm is a Processing code created to find a moment of tranquility while online. The code will play and you can watch it and find calmness within your busy life. You can also engage with the code by pressing the spacebar to interact (fish will be added to the screen).
+
 **Why?**
 My challenge was to design a virtual aquarium: a soothing, generative animation where fish drift and bubbles rise in real time. This is important because screens are often associated with noise, distraction, or stress, but here, I want to flip that and show how code can create a moment of calm.
 
